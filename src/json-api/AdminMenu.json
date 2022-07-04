@@ -1,0 +1,111 @@
+[
+	{
+		"id": 1,
+		"cat": "Dashboard",
+		"menus": [
+			{
+				"id": 2,
+				"label": "Modern",
+				"icon": "airplay",
+				"link" : "modern"
+			},
+
+			{
+				"id": 3,
+				"label": "Analytics",
+				"icon": "auto_graph",
+				"link" : "analytics"
+			},
+
+			{
+				"id": 4,
+				"label": "Ecommerce",
+				"icon": "shopping_bag",
+				"link" : "ecommerce"
+			}
+		]
+	},
+
+	{
+		"id": 5,
+		"cat": "Apps",
+		"menus": [
+			{
+				"id": 6,
+				"label": "Chat",
+				"icon": "chat_bubble_outlined",
+				"link" : "chat"
+			},
+
+			{
+				"id": 7,
+				"label": "Notes",
+				"icon": "description",
+				"link" : "notes"
+			},
+
+			{
+				"id": 8,
+				"label": "Mail",
+				"icon": "mail",
+				"link" : "mail"
+			},
+
+			{
+				"id": 9,
+				"label": "Calender",
+				"icon": "schedule",
+				"link" : "calender"
+			},
+
+			{
+				"id": 10,
+				"label": "Customers",
+				"icon": "group",
+				"isDropdown": true,
+				"dropdownMenu": [
+					{
+						"id": 15,
+						"label": "List",
+						"icon": "list",
+						"link" : "list"
+					},
+
+					{
+						"id": 16,
+						"label": "Edit",
+						"icon": "edit",
+						"link" : "edit"
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"id": 11,
+		"cat": "Themes",
+		"menus": [
+			{
+				"id": 12,
+				"label": "Modern",
+				"icon": "airplay",
+				"link" : "modern"
+			},
+
+			{
+				"id": 13,
+				"label": "Analytics",
+				"icon": "auto_graph",
+				"link" : "analytics"
+			},
+
+			{
+				"id": 14,
+				"label": "Ecommerce",
+				"icon": "shopping_bag",
+				"link" : "ecommerce"
+			}
+		]
+	}
+]
